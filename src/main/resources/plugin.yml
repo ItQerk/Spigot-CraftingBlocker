@@ -1,0 +1,9 @@
+name: CraftingBlocker
+version: '${project.version}'
+main: pl.ziomalu.craftingblocker.CraftingBlocker
+api-version: 1.18
+authors: [ ziomalu ]
+description: Crafting Blocker
+commands:
+  craftingblocker:
+    aliases: [cb]

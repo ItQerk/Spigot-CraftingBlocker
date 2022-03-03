@@ -1,0 +1,62 @@
+
+disable-craftings:
+  iron:
+    message-disable: "&8» &cWylaczyles mozliwosc craftowania &fzelaznych &crzeczy!"
+    message-enable: "&8» &6Wlaczyles mozliwosc craftowania &fzelaznych &6rzeczy!"
+    message-crafting: "&8» &cNie mozesz craftowac &fzelaznych &crzeczy!"
+    disable: false
+    items:
+      - iron_sword
+      - iron_hoe
+      - iron_axe
+      - iron_shovel
+      - iron_pickaxe
+      - iron_helmet
+      - iron_chestplate
+      - iron_leggings
+      - iron_boots
+  gold:
+    message-disable: "&8» &cWylaczyles mozliwosc craftowania &6zlotych &crzeczy!"
+    message-enable: "&8» &6Wlaczyles mozliwosc craftowania &6zlotych &6rzeczy!"
+    message-crafting: "&8» &cNie mozesz craftowac &6zlotych &crzeczy!"
+    disable: false
+    items:
+      - golden_sword
+      - golden_hoe
+      - golden_axe
+      - golden_shovel
+      - golden_pickaxe
+      - golden_helmet
+      - golden_chestplate
+      - golden_leggings
+      - golden_boots
+  diamond:
+    message-disable: "&8» &cWylaczyles mozliwosc craftowania &bdiamentowych &crzeczy!"
+    message-enable: "&8» &6Wlaczyles mozliwosc craftowania &bdiamentowych &6rzeczy!"
+    message-crafting: "&8» &cNie mozesz craftowac &bdiamentowych &crzeczy!"
+    disable: false
+    items:
+      - diamond_sword
+      - diamond_hoe
+      - diamond_axe
+      - diamond_shovel
+      - diamond_pickaxe
+      - diamond_helmet
+      - diamond_chestplate
+      - diamond_leggings
+      - diamond_boots
+  netherite:
+    message-disable: "&8» &cWylaczyles mozliwosc craftowania &8betheritowych &crzeczy!"
+    message-enable: "&8» &6Wlaczyles mozliwosc craftowania &8betheritowych &6rzeczy!"
+    message-crafting: "&8» &cNie mozesz craftowac &8betheritowych &crzeczy!"
+    disable: false
+    items:
+      - netherite_sword
+      - netherite_hoe
+      - netherite_axe
+      - netherite_shovel
+      - netherite_pickaxe
+      - netherite_helmet
+      - netherite_chestplate
+      - netherite_leggings
+      - netherite_boots
